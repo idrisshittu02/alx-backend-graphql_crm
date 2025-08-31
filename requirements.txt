@@ -1,0 +1,3 @@
+django-crontab==0.7.1
+gql[requests]==3.4.1
+requests-toolbelt==1.0.0
