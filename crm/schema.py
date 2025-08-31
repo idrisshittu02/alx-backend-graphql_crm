@@ -1,3 +1,6 @@
+import graphene
+from crm.models import Product   
+from crm.schema import Query as CRMQuery, Mutation as CRMMutation
 import re
 import graphene
 from graphene import Decimal, relay
